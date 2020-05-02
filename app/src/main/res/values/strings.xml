@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Trip Driver</string>
+    <string name="location_permission_needed">Location Permission is needed to set your location</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="invalid_email">invalid email</string>
+    <string name="invalid_password_length">Password too short</string>
+    <string name="login_error">couldn\'t login using this email and password</string>
+    <string name="ok">OK</string>
+    <string name="arrived_pickup">Arrived to pickup</string>
+    <string name="arrived_destination">Arrived to destination</string>
+    <string name="go_offline">Go Offline</string>
+    <string name="available">Status: available</string>
+    <string name="going_pickup">Status: going to pickup</string>
+    <string name="going_destination">Status: going to destination</string>
+    <string name="login">Login</string>
+    <string name="welcome_msg">Welcome to My Trip Driver app. You are our partner in success.</string>
+
+</resources>
